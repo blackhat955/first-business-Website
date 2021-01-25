@@ -1,0 +1,1 @@
+const navLink= document.querySelector()
